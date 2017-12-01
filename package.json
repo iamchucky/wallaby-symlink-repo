@@ -46,6 +46,6 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.3.2",
     "typescript": "~2.3.3",
-    "wallaby-webpack": "^0.0.40"
+    "wallaby-webpack": "0.0.45"
   }
 }
